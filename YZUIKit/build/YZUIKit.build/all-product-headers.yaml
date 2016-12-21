@@ -1,0 +1,58 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/yanzhen/Desktop/YZUIKit/library/framework-iphonesimulator/YZUIKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "YZActionSheet.h",
+          'external-contents': "/Users/yanzhen/Desktop/YZUIKit/YZUIKit/YZUIKit/YZActionSheet/YZActionSheet.h"
+        },
+        {
+          'type': 'file',
+          'name': "YZCircularLayout.h",
+          'external-contents': "/Users/yanzhen/Desktop/YZUIKit/YZUIKit/YZUIKit/YZCircularLayout/YZCircularLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "YZCircularMenu.h",
+          'external-contents': "/Users/yanzhen/Desktop/YZUIKit/YZUIKit/YZUIKit/YZCircularMenu/YZCircularMenu.h"
+        },
+        {
+          'type': 'file',
+          'name': "YZHorizontalLayout.h",
+          'external-contents': "/Users/yanzhen/Desktop/YZUIKit/YZUIKit/YZUIKit/YZHorizontalLayout/YZHorizontalLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "YZTransition.h",
+          'external-contents': "/Users/yanzhen/Desktop/YZUIKit/YZUIKit/YZUIKit/YZTransition/YZTransition.h"
+        },
+        {
+          'type': 'file',
+          'name': "YZUIKit-Swift.h",
+          'external-contents': "/Users/yanzhen/Desktop/YZUIKit/library/framework-iphonesimulator/YZUIKit.framework/Headers/YZUIKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YZUIKit.h",
+          'external-contents': "/Users/yanzhen/Desktop/YZUIKit/YZUIKit/YZUIKit/YZUIKit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yanzhen/Desktop/YZUIKit/library/framework-iphonesimulator/YZUIKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yanzhen/Desktop/YZUIKit/YZUIKit/build/YZUIKit.build/Debug-iphonesimulator/YZUIKit.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
